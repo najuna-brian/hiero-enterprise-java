@@ -11,7 +11,7 @@ import org.jspecify.annotations.NonNull;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class ProtocolLayerClientTests {
+public class  ProtocolLayerClientTests {
 
     @Test
     void testNullConstructorParam() {
